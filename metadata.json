@@ -1,0 +1,5 @@
+{
+  "name": "US License Date Modifier",
+  "description": "Recognize US driver\u0027s licenses and modify the expiration year for demonstration purposes.",
+  "requestFramePermissions": []
+}
